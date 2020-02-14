@@ -1,0 +1,1202 @@
+[
+    {
+        "filename": "./generated_examples/000-032.jpg",
+        "output": "./generated_examples_output/000-032-{}.jpg",
+        "folder": "./generated_examples_output/000-032"
+    },
+    {
+        "filename": "./generated_examples/000-048.jpg",
+        "output": "./generated_examples_output/000-048-{}.jpg",
+        "folder": "./generated_examples_output/000-048"
+    },
+    {
+        "filename": "./generated_examples/000-064.jpg",
+        "output": "./generated_examples_output/000-064-{}.jpg",
+        "folder": "./generated_examples_output/000-064"
+    },
+    {
+        "filename": "./generated_examples/000-080.jpg",
+        "output": "./generated_examples_output/000-080-{}.jpg",
+        "folder": "./generated_examples_output/000-080"
+    },
+    {
+        "filename": "./generated_examples/000-096.jpg",
+        "output": "./generated_examples_output/000-096-{}.jpg",
+        "folder": "./generated_examples_output/000-096"
+    },
+    {
+        "filename": "./generated_examples/000-112.jpg",
+        "output": "./generated_examples_output/000-112-{}.jpg",
+        "folder": "./generated_examples_output/000-112"
+    },
+    {
+        "filename": "./generated_examples/000-128.jpg",
+        "output": "./generated_examples_output/000-128-{}.jpg",
+        "folder": "./generated_examples_output/000-128"
+    },
+    {
+        "filename": "./generated_examples/000-144.jpg",
+        "output": "./generated_examples_output/000-144-{}.jpg",
+        "folder": "./generated_examples_output/000-144"
+    },
+    {
+        "filename": "./generated_examples/000-160.jpg",
+        "output": "./generated_examples_output/000-160-{}.jpg",
+        "folder": "./generated_examples_output/000-160"
+    },
+    {
+        "filename": "./generated_examples/000-176.jpg",
+        "output": "./generated_examples_output/000-176-{}.jpg",
+        "folder": "./generated_examples_output/000-176"
+    },
+    {
+        "filename": "./generated_examples/000-192.jpg",
+        "output": "./generated_examples_output/000-192-{}.jpg",
+        "folder": "./generated_examples_output/000-192"
+    },
+    {
+        "filename": "./generated_examples/000-208.jpg",
+        "output": "./generated_examples_output/000-208-{}.jpg",
+        "folder": "./generated_examples_output/000-208"
+    },
+    {
+        "filename": "./generated_examples/000-224.jpg",
+        "output": "./generated_examples_output/000-224-{}.jpg",
+        "folder": "./generated_examples_output/000-224"
+    },
+    {
+        "filename": "./generated_examples/000-240.jpg",
+        "output": "./generated_examples_output/000-240-{}.jpg",
+        "folder": "./generated_examples_output/000-240"
+    },
+    {
+        "filename": "./generated_examples/000-255.jpg",
+        "output": "./generated_examples_output/000-255-{}.jpg",
+        "folder": "./generated_examples_output/000-255"
+    },
+    {
+        "filename": "./generated_examples/016-048.jpg",
+        "output": "./generated_examples_output/016-048-{}.jpg",
+        "folder": "./generated_examples_output/016-048"
+    },
+    {
+        "filename": "./generated_examples/016-064.jpg",
+        "output": "./generated_examples_output/016-064-{}.jpg",
+        "folder": "./generated_examples_output/016-064"
+    },
+    {
+        "filename": "./generated_examples/016-080.jpg",
+        "output": "./generated_examples_output/016-080-{}.jpg",
+        "folder": "./generated_examples_output/016-080"
+    },
+    {
+        "filename": "./generated_examples/016-096.jpg",
+        "output": "./generated_examples_output/016-096-{}.jpg",
+        "folder": "./generated_examples_output/016-096"
+    },
+    {
+        "filename": "./generated_examples/016-112.jpg",
+        "output": "./generated_examples_output/016-112-{}.jpg",
+        "folder": "./generated_examples_output/016-112"
+    },
+    {
+        "filename": "./generated_examples/016-128.jpg",
+        "output": "./generated_examples_output/016-128-{}.jpg",
+        "folder": "./generated_examples_output/016-128"
+    },
+    {
+        "filename": "./generated_examples/016-144.jpg",
+        "output": "./generated_examples_output/016-144-{}.jpg",
+        "folder": "./generated_examples_output/016-144"
+    },
+    {
+        "filename": "./generated_examples/016-160.jpg",
+        "output": "./generated_examples_output/016-160-{}.jpg",
+        "folder": "./generated_examples_output/016-160"
+    },
+    {
+        "filename": "./generated_examples/016-176.jpg",
+        "output": "./generated_examples_output/016-176-{}.jpg",
+        "folder": "./generated_examples_output/016-176"
+    },
+    {
+        "filename": "./generated_examples/016-192.jpg",
+        "output": "./generated_examples_output/016-192-{}.jpg",
+        "folder": "./generated_examples_output/016-192"
+    },
+    {
+        "filename": "./generated_examples/016-208.jpg",
+        "output": "./generated_examples_output/016-208-{}.jpg",
+        "folder": "./generated_examples_output/016-208"
+    },
+    {
+        "filename": "./generated_examples/016-224.jpg",
+        "output": "./generated_examples_output/016-224-{}.jpg",
+        "folder": "./generated_examples_output/016-224"
+    },
+    {
+        "filename": "./generated_examples/016-240.jpg",
+        "output": "./generated_examples_output/016-240-{}.jpg",
+        "folder": "./generated_examples_output/016-240"
+    },
+    {
+        "filename": "./generated_examples/016-255.jpg",
+        "output": "./generated_examples_output/016-255-{}.jpg",
+        "folder": "./generated_examples_output/016-255"
+    },
+    {
+        "filename": "./generated_examples/032-000.jpg",
+        "output": "./generated_examples_output/032-000-{}.jpg",
+        "folder": "./generated_examples_output/032-000"
+    },
+    {
+        "filename": "./generated_examples/032-064.jpg",
+        "output": "./generated_examples_output/032-064-{}.jpg",
+        "folder": "./generated_examples_output/032-064"
+    },
+    {
+        "filename": "./generated_examples/032-080.jpg",
+        "output": "./generated_examples_output/032-080-{}.jpg",
+        "folder": "./generated_examples_output/032-080"
+    },
+    {
+        "filename": "./generated_examples/032-096.jpg",
+        "output": "./generated_examples_output/032-096-{}.jpg",
+        "folder": "./generated_examples_output/032-096"
+    },
+    {
+        "filename": "./generated_examples/032-112.jpg",
+        "output": "./generated_examples_output/032-112-{}.jpg",
+        "folder": "./generated_examples_output/032-112"
+    },
+    {
+        "filename": "./generated_examples/032-128.jpg",
+        "output": "./generated_examples_output/032-128-{}.jpg",
+        "folder": "./generated_examples_output/032-128"
+    },
+    {
+        "filename": "./generated_examples/032-144.jpg",
+        "output": "./generated_examples_output/032-144-{}.jpg",
+        "folder": "./generated_examples_output/032-144"
+    },
+    {
+        "filename": "./generated_examples/032-160.jpg",
+        "output": "./generated_examples_output/032-160-{}.jpg",
+        "folder": "./generated_examples_output/032-160"
+    },
+    {
+        "filename": "./generated_examples/032-176.jpg",
+        "output": "./generated_examples_output/032-176-{}.jpg",
+        "folder": "./generated_examples_output/032-176"
+    },
+    {
+        "filename": "./generated_examples/032-192.jpg",
+        "output": "./generated_examples_output/032-192-{}.jpg",
+        "folder": "./generated_examples_output/032-192"
+    },
+    {
+        "filename": "./generated_examples/032-208.jpg",
+        "output": "./generated_examples_output/032-208-{}.jpg",
+        "folder": "./generated_examples_output/032-208"
+    },
+    {
+        "filename": "./generated_examples/032-224.jpg",
+        "output": "./generated_examples_output/032-224-{}.jpg",
+        "folder": "./generated_examples_output/032-224"
+    },
+    {
+        "filename": "./generated_examples/032-240.jpg",
+        "output": "./generated_examples_output/032-240-{}.jpg",
+        "folder": "./generated_examples_output/032-240"
+    },
+    {
+        "filename": "./generated_examples/032-255.jpg",
+        "output": "./generated_examples_output/032-255-{}.jpg",
+        "folder": "./generated_examples_output/032-255"
+    },
+    {
+        "filename": "./generated_examples/048-000.jpg",
+        "output": "./generated_examples_output/048-000-{}.jpg",
+        "folder": "./generated_examples_output/048-000"
+    },
+    {
+        "filename": "./generated_examples/048-016.jpg",
+        "output": "./generated_examples_output/048-016-{}.jpg",
+        "folder": "./generated_examples_output/048-016"
+    },
+    {
+        "filename": "./generated_examples/048-080.jpg",
+        "output": "./generated_examples_output/048-080-{}.jpg",
+        "folder": "./generated_examples_output/048-080"
+    },
+    {
+        "filename": "./generated_examples/048-096.jpg",
+        "output": "./generated_examples_output/048-096-{}.jpg",
+        "folder": "./generated_examples_output/048-096"
+    },
+    {
+        "filename": "./generated_examples/048-112.jpg",
+        "output": "./generated_examples_output/048-112-{}.jpg",
+        "folder": "./generated_examples_output/048-112"
+    },
+    {
+        "filename": "./generated_examples/048-128.jpg",
+        "output": "./generated_examples_output/048-128-{}.jpg",
+        "folder": "./generated_examples_output/048-128"
+    },
+    {
+        "filename": "./generated_examples/048-144.jpg",
+        "output": "./generated_examples_output/048-144-{}.jpg",
+        "folder": "./generated_examples_output/048-144"
+    },
+    {
+        "filename": "./generated_examples/048-160.jpg",
+        "output": "./generated_examples_output/048-160-{}.jpg",
+        "folder": "./generated_examples_output/048-160"
+    },
+    {
+        "filename": "./generated_examples/048-176.jpg",
+        "output": "./generated_examples_output/048-176-{}.jpg",
+        "folder": "./generated_examples_output/048-176"
+    },
+    {
+        "filename": "./generated_examples/048-192.jpg",
+        "output": "./generated_examples_output/048-192-{}.jpg",
+        "folder": "./generated_examples_output/048-192"
+    },
+    {
+        "filename": "./generated_examples/048-208.jpg",
+        "output": "./generated_examples_output/048-208-{}.jpg",
+        "folder": "./generated_examples_output/048-208"
+    },
+    {
+        "filename": "./generated_examples/048-224.jpg",
+        "output": "./generated_examples_output/048-224-{}.jpg",
+        "folder": "./generated_examples_output/048-224"
+    },
+    {
+        "filename": "./generated_examples/048-240.jpg",
+        "output": "./generated_examples_output/048-240-{}.jpg",
+        "folder": "./generated_examples_output/048-240"
+    },
+    {
+        "filename": "./generated_examples/048-255.jpg",
+        "output": "./generated_examples_output/048-255-{}.jpg",
+        "folder": "./generated_examples_output/048-255"
+    },
+    {
+        "filename": "./generated_examples/064-000.jpg",
+        "output": "./generated_examples_output/064-000-{}.jpg",
+        "folder": "./generated_examples_output/064-000"
+    },
+    {
+        "filename": "./generated_examples/064-016.jpg",
+        "output": "./generated_examples_output/064-016-{}.jpg",
+        "folder": "./generated_examples_output/064-016"
+    },
+    {
+        "filename": "./generated_examples/064-032.jpg",
+        "output": "./generated_examples_output/064-032-{}.jpg",
+        "folder": "./generated_examples_output/064-032"
+    },
+    {
+        "filename": "./generated_examples/064-096.jpg",
+        "output": "./generated_examples_output/064-096-{}.jpg",
+        "folder": "./generated_examples_output/064-096"
+    },
+    {
+        "filename": "./generated_examples/064-112.jpg",
+        "output": "./generated_examples_output/064-112-{}.jpg",
+        "folder": "./generated_examples_output/064-112"
+    },
+    {
+        "filename": "./generated_examples/064-128.jpg",
+        "output": "./generated_examples_output/064-128-{}.jpg",
+        "folder": "./generated_examples_output/064-128"
+    },
+    {
+        "filename": "./generated_examples/064-144.jpg",
+        "output": "./generated_examples_output/064-144-{}.jpg",
+        "folder": "./generated_examples_output/064-144"
+    },
+    {
+        "filename": "./generated_examples/064-160.jpg",
+        "output": "./generated_examples_output/064-160-{}.jpg",
+        "folder": "./generated_examples_output/064-160"
+    },
+    {
+        "filename": "./generated_examples/064-176.jpg",
+        "output": "./generated_examples_output/064-176-{}.jpg",
+        "folder": "./generated_examples_output/064-176"
+    },
+    {
+        "filename": "./generated_examples/064-192.jpg",
+        "output": "./generated_examples_output/064-192-{}.jpg",
+        "folder": "./generated_examples_output/064-192"
+    },
+    {
+        "filename": "./generated_examples/064-208.jpg",
+        "output": "./generated_examples_output/064-208-{}.jpg",
+        "folder": "./generated_examples_output/064-208"
+    },
+    {
+        "filename": "./generated_examples/064-224.jpg",
+        "output": "./generated_examples_output/064-224-{}.jpg",
+        "folder": "./generated_examples_output/064-224"
+    },
+    {
+        "filename": "./generated_examples/064-240.jpg",
+        "output": "./generated_examples_output/064-240-{}.jpg",
+        "folder": "./generated_examples_output/064-240"
+    },
+    {
+        "filename": "./generated_examples/064-255.jpg",
+        "output": "./generated_examples_output/064-255-{}.jpg",
+        "folder": "./generated_examples_output/064-255"
+    },
+    {
+        "filename": "./generated_examples/080-000.jpg",
+        "output": "./generated_examples_output/080-000-{}.jpg",
+        "folder": "./generated_examples_output/080-000"
+    },
+    {
+        "filename": "./generated_examples/080-016.jpg",
+        "output": "./generated_examples_output/080-016-{}.jpg",
+        "folder": "./generated_examples_output/080-016"
+    },
+    {
+        "filename": "./generated_examples/080-032.jpg",
+        "output": "./generated_examples_output/080-032-{}.jpg",
+        "folder": "./generated_examples_output/080-032"
+    },
+    {
+        "filename": "./generated_examples/080-048.jpg",
+        "output": "./generated_examples_output/080-048-{}.jpg",
+        "folder": "./generated_examples_output/080-048"
+    },
+    {
+        "filename": "./generated_examples/080-112.jpg",
+        "output": "./generated_examples_output/080-112-{}.jpg",
+        "folder": "./generated_examples_output/080-112"
+    },
+    {
+        "filename": "./generated_examples/080-128.jpg",
+        "output": "./generated_examples_output/080-128-{}.jpg",
+        "folder": "./generated_examples_output/080-128"
+    },
+    {
+        "filename": "./generated_examples/080-144.jpg",
+        "output": "./generated_examples_output/080-144-{}.jpg",
+        "folder": "./generated_examples_output/080-144"
+    },
+    {
+        "filename": "./generated_examples/080-160.jpg",
+        "output": "./generated_examples_output/080-160-{}.jpg",
+        "folder": "./generated_examples_output/080-160"
+    },
+    {
+        "filename": "./generated_examples/080-176.jpg",
+        "output": "./generated_examples_output/080-176-{}.jpg",
+        "folder": "./generated_examples_output/080-176"
+    },
+    {
+        "filename": "./generated_examples/080-192.jpg",
+        "output": "./generated_examples_output/080-192-{}.jpg",
+        "folder": "./generated_examples_output/080-192"
+    },
+    {
+        "filename": "./generated_examples/080-208.jpg",
+        "output": "./generated_examples_output/080-208-{}.jpg",
+        "folder": "./generated_examples_output/080-208"
+    },
+    {
+        "filename": "./generated_examples/080-224.jpg",
+        "output": "./generated_examples_output/080-224-{}.jpg",
+        "folder": "./generated_examples_output/080-224"
+    },
+    {
+        "filename": "./generated_examples/080-240.jpg",
+        "output": "./generated_examples_output/080-240-{}.jpg",
+        "folder": "./generated_examples_output/080-240"
+    },
+    {
+        "filename": "./generated_examples/080-255.jpg",
+        "output": "./generated_examples_output/080-255-{}.jpg",
+        "folder": "./generated_examples_output/080-255"
+    },
+    {
+        "filename": "./generated_examples/096-000.jpg",
+        "output": "./generated_examples_output/096-000-{}.jpg",
+        "folder": "./generated_examples_output/096-000"
+    },
+    {
+        "filename": "./generated_examples/096-016.jpg",
+        "output": "./generated_examples_output/096-016-{}.jpg",
+        "folder": "./generated_examples_output/096-016"
+    },
+    {
+        "filename": "./generated_examples/096-032.jpg",
+        "output": "./generated_examples_output/096-032-{}.jpg",
+        "folder": "./generated_examples_output/096-032"
+    },
+    {
+        "filename": "./generated_examples/096-048.jpg",
+        "output": "./generated_examples_output/096-048-{}.jpg",
+        "folder": "./generated_examples_output/096-048"
+    },
+    {
+        "filename": "./generated_examples/096-064.jpg",
+        "output": "./generated_examples_output/096-064-{}.jpg",
+        "folder": "./generated_examples_output/096-064"
+    },
+    {
+        "filename": "./generated_examples/096-128.jpg",
+        "output": "./generated_examples_output/096-128-{}.jpg",
+        "folder": "./generated_examples_output/096-128"
+    },
+    {
+        "filename": "./generated_examples/096-144.jpg",
+        "output": "./generated_examples_output/096-144-{}.jpg",
+        "folder": "./generated_examples_output/096-144"
+    },
+    {
+        "filename": "./generated_examples/096-160.jpg",
+        "output": "./generated_examples_output/096-160-{}.jpg",
+        "folder": "./generated_examples_output/096-160"
+    },
+    {
+        "filename": "./generated_examples/096-176.jpg",
+        "output": "./generated_examples_output/096-176-{}.jpg",
+        "folder": "./generated_examples_output/096-176"
+    },
+    {
+        "filename": "./generated_examples/096-192.jpg",
+        "output": "./generated_examples_output/096-192-{}.jpg",
+        "folder": "./generated_examples_output/096-192"
+    },
+    {
+        "filename": "./generated_examples/096-208.jpg",
+        "output": "./generated_examples_output/096-208-{}.jpg",
+        "folder": "./generated_examples_output/096-208"
+    },
+    {
+        "filename": "./generated_examples/096-224.jpg",
+        "output": "./generated_examples_output/096-224-{}.jpg",
+        "folder": "./generated_examples_output/096-224"
+    },
+    {
+        "filename": "./generated_examples/096-240.jpg",
+        "output": "./generated_examples_output/096-240-{}.jpg",
+        "folder": "./generated_examples_output/096-240"
+    },
+    {
+        "filename": "./generated_examples/096-255.jpg",
+        "output": "./generated_examples_output/096-255-{}.jpg",
+        "folder": "./generated_examples_output/096-255"
+    },
+    {
+        "filename": "./generated_examples/112-000.jpg",
+        "output": "./generated_examples_output/112-000-{}.jpg",
+        "folder": "./generated_examples_output/112-000"
+    },
+    {
+        "filename": "./generated_examples/112-016.jpg",
+        "output": "./generated_examples_output/112-016-{}.jpg",
+        "folder": "./generated_examples_output/112-016"
+    },
+    {
+        "filename": "./generated_examples/112-032.jpg",
+        "output": "./generated_examples_output/112-032-{}.jpg",
+        "folder": "./generated_examples_output/112-032"
+    },
+    {
+        "filename": "./generated_examples/112-048.jpg",
+        "output": "./generated_examples_output/112-048-{}.jpg",
+        "folder": "./generated_examples_output/112-048"
+    },
+    {
+        "filename": "./generated_examples/112-064.jpg",
+        "output": "./generated_examples_output/112-064-{}.jpg",
+        "folder": "./generated_examples_output/112-064"
+    },
+    {
+        "filename": "./generated_examples/112-080.jpg",
+        "output": "./generated_examples_output/112-080-{}.jpg",
+        "folder": "./generated_examples_output/112-080"
+    },
+    {
+        "filename": "./generated_examples/112-144.jpg",
+        "output": "./generated_examples_output/112-144-{}.jpg",
+        "folder": "./generated_examples_output/112-144"
+    },
+    {
+        "filename": "./generated_examples/112-160.jpg",
+        "output": "./generated_examples_output/112-160-{}.jpg",
+        "folder": "./generated_examples_output/112-160"
+    },
+    {
+        "filename": "./generated_examples/112-176.jpg",
+        "output": "./generated_examples_output/112-176-{}.jpg",
+        "folder": "./generated_examples_output/112-176"
+    },
+    {
+        "filename": "./generated_examples/112-192.jpg",
+        "output": "./generated_examples_output/112-192-{}.jpg",
+        "folder": "./generated_examples_output/112-192"
+    },
+    {
+        "filename": "./generated_examples/112-208.jpg",
+        "output": "./generated_examples_output/112-208-{}.jpg",
+        "folder": "./generated_examples_output/112-208"
+    },
+    {
+        "filename": "./generated_examples/112-224.jpg",
+        "output": "./generated_examples_output/112-224-{}.jpg",
+        "folder": "./generated_examples_output/112-224"
+    },
+    {
+        "filename": "./generated_examples/112-240.jpg",
+        "output": "./generated_examples_output/112-240-{}.jpg",
+        "folder": "./generated_examples_output/112-240"
+    },
+    {
+        "filename": "./generated_examples/112-255.jpg",
+        "output": "./generated_examples_output/112-255-{}.jpg",
+        "folder": "./generated_examples_output/112-255"
+    },
+    {
+        "filename": "./generated_examples/128-000.jpg",
+        "output": "./generated_examples_output/128-000-{}.jpg",
+        "folder": "./generated_examples_output/128-000"
+    },
+    {
+        "filename": "./generated_examples/128-016.jpg",
+        "output": "./generated_examples_output/128-016-{}.jpg",
+        "folder": "./generated_examples_output/128-016"
+    },
+    {
+        "filename": "./generated_examples/128-032.jpg",
+        "output": "./generated_examples_output/128-032-{}.jpg",
+        "folder": "./generated_examples_output/128-032"
+    },
+    {
+        "filename": "./generated_examples/128-048.jpg",
+        "output": "./generated_examples_output/128-048-{}.jpg",
+        "folder": "./generated_examples_output/128-048"
+    },
+    {
+        "filename": "./generated_examples/128-064.jpg",
+        "output": "./generated_examples_output/128-064-{}.jpg",
+        "folder": "./generated_examples_output/128-064"
+    },
+    {
+        "filename": "./generated_examples/128-080.jpg",
+        "output": "./generated_examples_output/128-080-{}.jpg",
+        "folder": "./generated_examples_output/128-080"
+    },
+    {
+        "filename": "./generated_examples/128-096.jpg",
+        "output": "./generated_examples_output/128-096-{}.jpg",
+        "folder": "./generated_examples_output/128-096"
+    },
+    {
+        "filename": "./generated_examples/128-160.jpg",
+        "output": "./generated_examples_output/128-160-{}.jpg",
+        "folder": "./generated_examples_output/128-160"
+    },
+    {
+        "filename": "./generated_examples/128-176.jpg",
+        "output": "./generated_examples_output/128-176-{}.jpg",
+        "folder": "./generated_examples_output/128-176"
+    },
+    {
+        "filename": "./generated_examples/128-192.jpg",
+        "output": "./generated_examples_output/128-192-{}.jpg",
+        "folder": "./generated_examples_output/128-192"
+    },
+    {
+        "filename": "./generated_examples/128-208.jpg",
+        "output": "./generated_examples_output/128-208-{}.jpg",
+        "folder": "./generated_examples_output/128-208"
+    },
+    {
+        "filename": "./generated_examples/128-224.jpg",
+        "output": "./generated_examples_output/128-224-{}.jpg",
+        "folder": "./generated_examples_output/128-224"
+    },
+    {
+        "filename": "./generated_examples/128-240.jpg",
+        "output": "./generated_examples_output/128-240-{}.jpg",
+        "folder": "./generated_examples_output/128-240"
+    },
+    {
+        "filename": "./generated_examples/128-255.jpg",
+        "output": "./generated_examples_output/128-255-{}.jpg",
+        "folder": "./generated_examples_output/128-255"
+    },
+    {
+        "filename": "./generated_examples/144-000.jpg",
+        "output": "./generated_examples_output/144-000-{}.jpg",
+        "folder": "./generated_examples_output/144-000"
+    },
+    {
+        "filename": "./generated_examples/144-016.jpg",
+        "output": "./generated_examples_output/144-016-{}.jpg",
+        "folder": "./generated_examples_output/144-016"
+    },
+    {
+        "filename": "./generated_examples/144-032.jpg",
+        "output": "./generated_examples_output/144-032-{}.jpg",
+        "folder": "./generated_examples_output/144-032"
+    },
+    {
+        "filename": "./generated_examples/144-048.jpg",
+        "output": "./generated_examples_output/144-048-{}.jpg",
+        "folder": "./generated_examples_output/144-048"
+    },
+    {
+        "filename": "./generated_examples/144-064.jpg",
+        "output": "./generated_examples_output/144-064-{}.jpg",
+        "folder": "./generated_examples_output/144-064"
+    },
+    {
+        "filename": "./generated_examples/144-080.jpg",
+        "output": "./generated_examples_output/144-080-{}.jpg",
+        "folder": "./generated_examples_output/144-080"
+    },
+    {
+        "filename": "./generated_examples/144-096.jpg",
+        "output": "./generated_examples_output/144-096-{}.jpg",
+        "folder": "./generated_examples_output/144-096"
+    },
+    {
+        "filename": "./generated_examples/144-112.jpg",
+        "output": "./generated_examples_output/144-112-{}.jpg",
+        "folder": "./generated_examples_output/144-112"
+    },
+    {
+        "filename": "./generated_examples/144-176.jpg",
+        "output": "./generated_examples_output/144-176-{}.jpg",
+        "folder": "./generated_examples_output/144-176"
+    },
+    {
+        "filename": "./generated_examples/144-192.jpg",
+        "output": "./generated_examples_output/144-192-{}.jpg",
+        "folder": "./generated_examples_output/144-192"
+    },
+    {
+        "filename": "./generated_examples/144-208.jpg",
+        "output": "./generated_examples_output/144-208-{}.jpg",
+        "folder": "./generated_examples_output/144-208"
+    },
+    {
+        "filename": "./generated_examples/144-224.jpg",
+        "output": "./generated_examples_output/144-224-{}.jpg",
+        "folder": "./generated_examples_output/144-224"
+    },
+    {
+        "filename": "./generated_examples/144-240.jpg",
+        "output": "./generated_examples_output/144-240-{}.jpg",
+        "folder": "./generated_examples_output/144-240"
+    },
+    {
+        "filename": "./generated_examples/144-255.jpg",
+        "output": "./generated_examples_output/144-255-{}.jpg",
+        "folder": "./generated_examples_output/144-255"
+    },
+    {
+        "filename": "./generated_examples/160-000.jpg",
+        "output": "./generated_examples_output/160-000-{}.jpg",
+        "folder": "./generated_examples_output/160-000"
+    },
+    {
+        "filename": "./generated_examples/160-016.jpg",
+        "output": "./generated_examples_output/160-016-{}.jpg",
+        "folder": "./generated_examples_output/160-016"
+    },
+    {
+        "filename": "./generated_examples/160-032.jpg",
+        "output": "./generated_examples_output/160-032-{}.jpg",
+        "folder": "./generated_examples_output/160-032"
+    },
+    {
+        "filename": "./generated_examples/160-048.jpg",
+        "output": "./generated_examples_output/160-048-{}.jpg",
+        "folder": "./generated_examples_output/160-048"
+    },
+    {
+        "filename": "./generated_examples/160-064.jpg",
+        "output": "./generated_examples_output/160-064-{}.jpg",
+        "folder": "./generated_examples_output/160-064"
+    },
+    {
+        "filename": "./generated_examples/160-080.jpg",
+        "output": "./generated_examples_output/160-080-{}.jpg",
+        "folder": "./generated_examples_output/160-080"
+    },
+    {
+        "filename": "./generated_examples/160-096.jpg",
+        "output": "./generated_examples_output/160-096-{}.jpg",
+        "folder": "./generated_examples_output/160-096"
+    },
+    {
+        "filename": "./generated_examples/160-112.jpg",
+        "output": "./generated_examples_output/160-112-{}.jpg",
+        "folder": "./generated_examples_output/160-112"
+    },
+    {
+        "filename": "./generated_examples/160-128.jpg",
+        "output": "./generated_examples_output/160-128-{}.jpg",
+        "folder": "./generated_examples_output/160-128"
+    },
+    {
+        "filename": "./generated_examples/160-192.jpg",
+        "output": "./generated_examples_output/160-192-{}.jpg",
+        "folder": "./generated_examples_output/160-192"
+    },
+    {
+        "filename": "./generated_examples/160-208.jpg",
+        "output": "./generated_examples_output/160-208-{}.jpg",
+        "folder": "./generated_examples_output/160-208"
+    },
+    {
+        "filename": "./generated_examples/160-224.jpg",
+        "output": "./generated_examples_output/160-224-{}.jpg",
+        "folder": "./generated_examples_output/160-224"
+    },
+    {
+        "filename": "./generated_examples/160-240.jpg",
+        "output": "./generated_examples_output/160-240-{}.jpg",
+        "folder": "./generated_examples_output/160-240"
+    },
+    {
+        "filename": "./generated_examples/160-255.jpg",
+        "output": "./generated_examples_output/160-255-{}.jpg",
+        "folder": "./generated_examples_output/160-255"
+    },
+    {
+        "filename": "./generated_examples/176-000.jpg",
+        "output": "./generated_examples_output/176-000-{}.jpg",
+        "folder": "./generated_examples_output/176-000"
+    },
+    {
+        "filename": "./generated_examples/176-016.jpg",
+        "output": "./generated_examples_output/176-016-{}.jpg",
+        "folder": "./generated_examples_output/176-016"
+    },
+    {
+        "filename": "./generated_examples/176-032.jpg",
+        "output": "./generated_examples_output/176-032-{}.jpg",
+        "folder": "./generated_examples_output/176-032"
+    },
+    {
+        "filename": "./generated_examples/176-048.jpg",
+        "output": "./generated_examples_output/176-048-{}.jpg",
+        "folder": "./generated_examples_output/176-048"
+    },
+    {
+        "filename": "./generated_examples/176-064.jpg",
+        "output": "./generated_examples_output/176-064-{}.jpg",
+        "folder": "./generated_examples_output/176-064"
+    },
+    {
+        "filename": "./generated_examples/176-080.jpg",
+        "output": "./generated_examples_output/176-080-{}.jpg",
+        "folder": "./generated_examples_output/176-080"
+    },
+    {
+        "filename": "./generated_examples/176-096.jpg",
+        "output": "./generated_examples_output/176-096-{}.jpg",
+        "folder": "./generated_examples_output/176-096"
+    },
+    {
+        "filename": "./generated_examples/176-112.jpg",
+        "output": "./generated_examples_output/176-112-{}.jpg",
+        "folder": "./generated_examples_output/176-112"
+    },
+    {
+        "filename": "./generated_examples/176-128.jpg",
+        "output": "./generated_examples_output/176-128-{}.jpg",
+        "folder": "./generated_examples_output/176-128"
+    },
+    {
+        "filename": "./generated_examples/176-144.jpg",
+        "output": "./generated_examples_output/176-144-{}.jpg",
+        "folder": "./generated_examples_output/176-144"
+    },
+    {
+        "filename": "./generated_examples/176-208.jpg",
+        "output": "./generated_examples_output/176-208-{}.jpg",
+        "folder": "./generated_examples_output/176-208"
+    },
+    {
+        "filename": "./generated_examples/176-224.jpg",
+        "output": "./generated_examples_output/176-224-{}.jpg",
+        "folder": "./generated_examples_output/176-224"
+    },
+    {
+        "filename": "./generated_examples/176-240.jpg",
+        "output": "./generated_examples_output/176-240-{}.jpg",
+        "folder": "./generated_examples_output/176-240"
+    },
+    {
+        "filename": "./generated_examples/176-255.jpg",
+        "output": "./generated_examples_output/176-255-{}.jpg",
+        "folder": "./generated_examples_output/176-255"
+    },
+    {
+        "filename": "./generated_examples/192-000.jpg",
+        "output": "./generated_examples_output/192-000-{}.jpg",
+        "folder": "./generated_examples_output/192-000"
+    },
+    {
+        "filename": "./generated_examples/192-016.jpg",
+        "output": "./generated_examples_output/192-016-{}.jpg",
+        "folder": "./generated_examples_output/192-016"
+    },
+    {
+        "filename": "./generated_examples/192-032.jpg",
+        "output": "./generated_examples_output/192-032-{}.jpg",
+        "folder": "./generated_examples_output/192-032"
+    },
+    {
+        "filename": "./generated_examples/192-048.jpg",
+        "output": "./generated_examples_output/192-048-{}.jpg",
+        "folder": "./generated_examples_output/192-048"
+    },
+    {
+        "filename": "./generated_examples/192-064.jpg",
+        "output": "./generated_examples_output/192-064-{}.jpg",
+        "folder": "./generated_examples_output/192-064"
+    },
+    {
+        "filename": "./generated_examples/192-080.jpg",
+        "output": "./generated_examples_output/192-080-{}.jpg",
+        "folder": "./generated_examples_output/192-080"
+    },
+    {
+        "filename": "./generated_examples/192-096.jpg",
+        "output": "./generated_examples_output/192-096-{}.jpg",
+        "folder": "./generated_examples_output/192-096"
+    },
+    {
+        "filename": "./generated_examples/192-112.jpg",
+        "output": "./generated_examples_output/192-112-{}.jpg",
+        "folder": "./generated_examples_output/192-112"
+    },
+    {
+        "filename": "./generated_examples/192-128.jpg",
+        "output": "./generated_examples_output/192-128-{}.jpg",
+        "folder": "./generated_examples_output/192-128"
+    },
+    {
+        "filename": "./generated_examples/192-144.jpg",
+        "output": "./generated_examples_output/192-144-{}.jpg",
+        "folder": "./generated_examples_output/192-144"
+    },
+    {
+        "filename": "./generated_examples/192-160.jpg",
+        "output": "./generated_examples_output/192-160-{}.jpg",
+        "folder": "./generated_examples_output/192-160"
+    },
+    {
+        "filename": "./generated_examples/192-224.jpg",
+        "output": "./generated_examples_output/192-224-{}.jpg",
+        "folder": "./generated_examples_output/192-224"
+    },
+    {
+        "filename": "./generated_examples/192-240.jpg",
+        "output": "./generated_examples_output/192-240-{}.jpg",
+        "folder": "./generated_examples_output/192-240"
+    },
+    {
+        "filename": "./generated_examples/192-255.jpg",
+        "output": "./generated_examples_output/192-255-{}.jpg",
+        "folder": "./generated_examples_output/192-255"
+    },
+    {
+        "filename": "./generated_examples/208-000.jpg",
+        "output": "./generated_examples_output/208-000-{}.jpg",
+        "folder": "./generated_examples_output/208-000"
+    },
+    {
+        "filename": "./generated_examples/208-016.jpg",
+        "output": "./generated_examples_output/208-016-{}.jpg",
+        "folder": "./generated_examples_output/208-016"
+    },
+    {
+        "filename": "./generated_examples/208-032.jpg",
+        "output": "./generated_examples_output/208-032-{}.jpg",
+        "folder": "./generated_examples_output/208-032"
+    },
+    {
+        "filename": "./generated_examples/208-048.jpg",
+        "output": "./generated_examples_output/208-048-{}.jpg",
+        "folder": "./generated_examples_output/208-048"
+    },
+    {
+        "filename": "./generated_examples/208-064.jpg",
+        "output": "./generated_examples_output/208-064-{}.jpg",
+        "folder": "./generated_examples_output/208-064"
+    },
+    {
+        "filename": "./generated_examples/208-080.jpg",
+        "output": "./generated_examples_output/208-080-{}.jpg",
+        "folder": "./generated_examples_output/208-080"
+    },
+    {
+        "filename": "./generated_examples/208-096.jpg",
+        "output": "./generated_examples_output/208-096-{}.jpg",
+        "folder": "./generated_examples_output/208-096"
+    },
+    {
+        "filename": "./generated_examples/208-112.jpg",
+        "output": "./generated_examples_output/208-112-{}.jpg",
+        "folder": "./generated_examples_output/208-112"
+    },
+    {
+        "filename": "./generated_examples/208-128.jpg",
+        "output": "./generated_examples_output/208-128-{}.jpg",
+        "folder": "./generated_examples_output/208-128"
+    },
+    {
+        "filename": "./generated_examples/208-144.jpg",
+        "output": "./generated_examples_output/208-144-{}.jpg",
+        "folder": "./generated_examples_output/208-144"
+    },
+    {
+        "filename": "./generated_examples/208-160.jpg",
+        "output": "./generated_examples_output/208-160-{}.jpg",
+        "folder": "./generated_examples_output/208-160"
+    },
+    {
+        "filename": "./generated_examples/208-176.jpg",
+        "output": "./generated_examples_output/208-176-{}.jpg",
+        "folder": "./generated_examples_output/208-176"
+    },
+    {
+        "filename": "./generated_examples/208-240.jpg",
+        "output": "./generated_examples_output/208-240-{}.jpg",
+        "folder": "./generated_examples_output/208-240"
+    },
+    {
+        "filename": "./generated_examples/208-255.jpg",
+        "output": "./generated_examples_output/208-255-{}.jpg",
+        "folder": "./generated_examples_output/208-255"
+    },
+    {
+        "filename": "./generated_examples/224-000.jpg",
+        "output": "./generated_examples_output/224-000-{}.jpg",
+        "folder": "./generated_examples_output/224-000"
+    },
+    {
+        "filename": "./generated_examples/224-016.jpg",
+        "output": "./generated_examples_output/224-016-{}.jpg",
+        "folder": "./generated_examples_output/224-016"
+    },
+    {
+        "filename": "./generated_examples/224-032.jpg",
+        "output": "./generated_examples_output/224-032-{}.jpg",
+        "folder": "./generated_examples_output/224-032"
+    },
+    {
+        "filename": "./generated_examples/224-048.jpg",
+        "output": "./generated_examples_output/224-048-{}.jpg",
+        "folder": "./generated_examples_output/224-048"
+    },
+    {
+        "filename": "./generated_examples/224-064.jpg",
+        "output": "./generated_examples_output/224-064-{}.jpg",
+        "folder": "./generated_examples_output/224-064"
+    },
+    {
+        "filename": "./generated_examples/224-080.jpg",
+        "output": "./generated_examples_output/224-080-{}.jpg",
+        "folder": "./generated_examples_output/224-080"
+    },
+    {
+        "filename": "./generated_examples/224-096.jpg",
+        "output": "./generated_examples_output/224-096-{}.jpg",
+        "folder": "./generated_examples_output/224-096"
+    },
+    {
+        "filename": "./generated_examples/224-112.jpg",
+        "output": "./generated_examples_output/224-112-{}.jpg",
+        "folder": "./generated_examples_output/224-112"
+    },
+    {
+        "filename": "./generated_examples/224-128.jpg",
+        "output": "./generated_examples_output/224-128-{}.jpg",
+        "folder": "./generated_examples_output/224-128"
+    },
+    {
+        "filename": "./generated_examples/224-144.jpg",
+        "output": "./generated_examples_output/224-144-{}.jpg",
+        "folder": "./generated_examples_output/224-144"
+    },
+    {
+        "filename": "./generated_examples/224-160.jpg",
+        "output": "./generated_examples_output/224-160-{}.jpg",
+        "folder": "./generated_examples_output/224-160"
+    },
+    {
+        "filename": "./generated_examples/224-176.jpg",
+        "output": "./generated_examples_output/224-176-{}.jpg",
+        "folder": "./generated_examples_output/224-176"
+    },
+    {
+        "filename": "./generated_examples/224-192.jpg",
+        "output": "./generated_examples_output/224-192-{}.jpg",
+        "folder": "./generated_examples_output/224-192"
+    },
+    {
+        "filename": "./generated_examples/224-255.jpg",
+        "output": "./generated_examples_output/224-255-{}.jpg",
+        "folder": "./generated_examples_output/224-255"
+    },
+    {
+        "filename": "./generated_examples/240-000.jpg",
+        "output": "./generated_examples_output/240-000-{}.jpg",
+        "folder": "./generated_examples_output/240-000"
+    },
+    {
+        "filename": "./generated_examples/240-016.jpg",
+        "output": "./generated_examples_output/240-016-{}.jpg",
+        "folder": "./generated_examples_output/240-016"
+    },
+    {
+        "filename": "./generated_examples/240-032.jpg",
+        "output": "./generated_examples_output/240-032-{}.jpg",
+        "folder": "./generated_examples_output/240-032"
+    },
+    {
+        "filename": "./generated_examples/240-048.jpg",
+        "output": "./generated_examples_output/240-048-{}.jpg",
+        "folder": "./generated_examples_output/240-048"
+    },
+    {
+        "filename": "./generated_examples/240-064.jpg",
+        "output": "./generated_examples_output/240-064-{}.jpg",
+        "folder": "./generated_examples_output/240-064"
+    },
+    {
+        "filename": "./generated_examples/240-080.jpg",
+        "output": "./generated_examples_output/240-080-{}.jpg",
+        "folder": "./generated_examples_output/240-080"
+    },
+    {
+        "filename": "./generated_examples/240-096.jpg",
+        "output": "./generated_examples_output/240-096-{}.jpg",
+        "folder": "./generated_examples_output/240-096"
+    },
+    {
+        "filename": "./generated_examples/240-112.jpg",
+        "output": "./generated_examples_output/240-112-{}.jpg",
+        "folder": "./generated_examples_output/240-112"
+    },
+    {
+        "filename": "./generated_examples/240-128.jpg",
+        "output": "./generated_examples_output/240-128-{}.jpg",
+        "folder": "./generated_examples_output/240-128"
+    },
+    {
+        "filename": "./generated_examples/240-144.jpg",
+        "output": "./generated_examples_output/240-144-{}.jpg",
+        "folder": "./generated_examples_output/240-144"
+    },
+    {
+        "filename": "./generated_examples/240-160.jpg",
+        "output": "./generated_examples_output/240-160-{}.jpg",
+        "folder": "./generated_examples_output/240-160"
+    },
+    {
+        "filename": "./generated_examples/240-176.jpg",
+        "output": "./generated_examples_output/240-176-{}.jpg",
+        "folder": "./generated_examples_output/240-176"
+    },
+    {
+        "filename": "./generated_examples/240-192.jpg",
+        "output": "./generated_examples_output/240-192-{}.jpg",
+        "folder": "./generated_examples_output/240-192"
+    },
+    {
+        "filename": "./generated_examples/240-208.jpg",
+        "output": "./generated_examples_output/240-208-{}.jpg",
+        "folder": "./generated_examples_output/240-208"
+    },
+    {
+        "filename": "./generated_examples/255-000.jpg",
+        "output": "./generated_examples_output/255-000-{}.jpg",
+        "folder": "./generated_examples_output/255-000"
+    },
+    {
+        "filename": "./generated_examples/255-016.jpg",
+        "output": "./generated_examples_output/255-016-{}.jpg",
+        "folder": "./generated_examples_output/255-016"
+    },
+    {
+        "filename": "./generated_examples/255-032.jpg",
+        "output": "./generated_examples_output/255-032-{}.jpg",
+        "folder": "./generated_examples_output/255-032"
+    },
+    {
+        "filename": "./generated_examples/255-048.jpg",
+        "output": "./generated_examples_output/255-048-{}.jpg",
+        "folder": "./generated_examples_output/255-048"
+    },
+    {
+        "filename": "./generated_examples/255-064.jpg",
+        "output": "./generated_examples_output/255-064-{}.jpg",
+        "folder": "./generated_examples_output/255-064"
+    },
+    {
+        "filename": "./generated_examples/255-080.jpg",
+        "output": "./generated_examples_output/255-080-{}.jpg",
+        "folder": "./generated_examples_output/255-080"
+    },
+    {
+        "filename": "./generated_examples/255-096.jpg",
+        "output": "./generated_examples_output/255-096-{}.jpg",
+        "folder": "./generated_examples_output/255-096"
+    },
+    {
+        "filename": "./generated_examples/255-112.jpg",
+        "output": "./generated_examples_output/255-112-{}.jpg",
+        "folder": "./generated_examples_output/255-112"
+    },
+    {
+        "filename": "./generated_examples/255-128.jpg",
+        "output": "./generated_examples_output/255-128-{}.jpg",
+        "folder": "./generated_examples_output/255-128"
+    },
+    {
+        "filename": "./generated_examples/255-144.jpg",
+        "output": "./generated_examples_output/255-144-{}.jpg",
+        "folder": "./generated_examples_output/255-144"
+    },
+    {
+        "filename": "./generated_examples/255-160.jpg",
+        "output": "./generated_examples_output/255-160-{}.jpg",
+        "folder": "./generated_examples_output/255-160"
+    },
+    {
+        "filename": "./generated_examples/255-176.jpg",
+        "output": "./generated_examples_output/255-176-{}.jpg",
+        "folder": "./generated_examples_output/255-176"
+    },
+    {
+        "filename": "./generated_examples/255-192.jpg",
+        "output": "./generated_examples_output/255-192-{}.jpg",
+        "folder": "./generated_examples_output/255-192"
+    },
+    {
+        "filename": "./generated_examples/255-208.jpg",
+        "output": "./generated_examples_output/255-208-{}.jpg",
+        "folder": "./generated_examples_output/255-208"
+    },
+    {
+        "filename": "./generated_examples/255-224.jpg",
+        "output": "./generated_examples_output/255-224-{}.jpg",
+        "folder": "./generated_examples_output/255-224"
+    }
+]

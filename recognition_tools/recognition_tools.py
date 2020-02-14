@@ -117,10 +117,13 @@ def interpolate_profiles(left, right):
         
         change_margin = i*(1/(len(change)-1))
         j=0
-        while change_margin
+        # while change_margin
 
 def get_profiles_distance(left, right):
-    pass
+    if len(left) != len(right):
+        return None
+
+    return [abs(left[i]-right[i])**2 for i in range(len(left))]
 
 def simple_config_ok(data):
     for entry in data:

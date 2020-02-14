@@ -60,7 +60,7 @@ alphabet='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
 for i in range(52):
     image = load_image(f'generated_examples_output/alphabet/{i:04}.jpg')
     profile_x, profile_y = get_profiles(image, get_mode(image))
-    print(f'{profile_x} - {profile_y}')
+    # print(f'{profile_x} - {profile_y}')
     profiles.append({
         'letter': alphabet[i],
         'profile_x': profile_x,
@@ -73,6 +73,8 @@ with open('profiles.json', 'w') as outfile:
         indent=4,
         separators=(',', ': ')
     ))
-
-plt.plot(range(1, 15), profiles[28]['profile_x'])
+print(profiles[26]['letter'])
+plt.plot(range(1, 15), profiles[26]['profile_x'])
+plt.show()
+plt.plot(range(1, 10), profiles[26]['profile_y'])
 plt.show()

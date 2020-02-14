@@ -97,12 +97,11 @@ def get_profiles(image, mode):
     return profile_x, profile_y
 
 def interpolate_profiles(left, right):
-    len_left, len_right = len(left), len(right)
 
-    if len_left == len_right:
+    if len(left) == len(right):
         return left, right
 
-    if len_left > len_right:
+    if len(left) > len(right):
         base = right
         change = left
     else:
@@ -116,8 +115,15 @@ def interpolate_profiles(left, right):
             continue
         
         change_margin = i*(1/(len(change)-1))
-        j=0
-        # while change_margin
+        for j in range(1, len(base)-1):
+            if j*(1/(len(base)-1)) <= change_margin and \
+            (j+1)*(1/(len(base)-1)) > change_margin:
+                koef = (change_margin - j*(1/(len(base)-1)))/(1/(len(base)-1))
+                new_profile.append(
+                    koef*change[i] + (1-koef)*change[i+1]
+                )
+
+        
 
 def get_profiles_distance(left, right):
     if len(left) != len(right):

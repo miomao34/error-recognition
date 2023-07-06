@@ -1,5 +1,5 @@
 pillow
-scipy==1.0.1
+scipy==1.10.0
 matplotlib
 imageio
 sklearn
